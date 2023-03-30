@@ -2,19 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+i am to write SQL statements obtaining informations from the database
 
 ## Description
-TODO - How have you solved the problem?
+I used different statements to obtain the information from the database, statements like SELECT, FROM, JOIN, ON, WHERE, LIKE, AND, OR and many more.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+NO Installation needed for the project 
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+to use this i ran sqlite3 movies.db on the terminal, then run the sql statements. 
 
 ### The Core Team
 
